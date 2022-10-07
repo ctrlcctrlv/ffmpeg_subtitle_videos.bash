@@ -1,0 +1,3910 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1p1beta1.LongRunningRecognizeResponse",
+  "requestId": "5307353317110507482",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128386,
+          "transcript": "Greetings, I am Ron Watkins. The founder of alien leaks.",
+          "words": [
+            {
+              "endTime": "4.100s",
+              "startTime": "3.300s",
+              "word": "Greetings,"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.900s",
+              "word": "I"
+            },
+            {
+              "endTime": "5.400s",
+              "startTime": "5.100s",
+              "word": "am"
+            },
+            {
+              "endTime": "5.600s",
+              "startTime": "5.400s",
+              "word": "Ron"
+            },
+            {
+              "endTime": "6.300s",
+              "startTime": "5.600s",
+              "word": "Watkins."
+            },
+            {
+              "endTime": "6.800s",
+              "startTime": "6.600s",
+              "word": "The"
+            },
+            {
+              "endTime": "7.400s",
+              "startTime": "6.800s",
+              "word": "founder"
+            },
+            {
+              "endTime": "7.700s",
+              "startTime": "7.400s",
+              "word": "of"
+            },
+            {
+              "endTime": "8.100s",
+              "startTime": "7.700s",
+              "word": "alien"
+            },
+            {
+              "endTime": "8.600s",
+              "startTime": "8.100s",
+              "word": "leaks."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "9.060s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8494352,
+          "transcript": " Having an interest in extraterrestrial activity. Since childhood I designed alien leaks in a similar vein to Julian assange's, WikiLeaks.",
+          "words": [
+            {
+              "endTime": "13.100s",
+              "startTime": "12.800s",
+              "word": "Having"
+            },
+            {
+              "endTime": "13.200s",
+              "startTime": "13.100s",
+              "word": "an"
+            },
+            {
+              "endTime": "13.800s",
+              "startTime": "13.200s",
+              "word": "interest"
+            },
+            {
+              "endTime": "14s",
+              "startTime": "13.800s",
+              "word": "in"
+            },
+            {
+              "endTime": "15.100s",
+              "startTime": "14s",
+              "word": "extraterrestrial"
+            },
+            {
+              "endTime": "15.600s",
+              "startTime": "15.100s",
+              "word": "activity."
+            },
+            {
+              "endTime": "16s",
+              "startTime": "15.600s",
+              "word": "Since"
+            },
+            {
+              "endTime": "16.800s",
+              "startTime": "16s",
+              "word": "childhood"
+            },
+            {
+              "endTime": "18s",
+              "startTime": "17.800s",
+              "word": "I"
+            },
+            {
+              "endTime": "18.800s",
+              "startTime": "18s",
+              "word": "designed"
+            },
+            {
+              "endTime": "19.400s",
+              "startTime": "18.900s",
+              "word": "alien"
+            },
+            {
+              "endTime": "19.900s",
+              "startTime": "19.400s",
+              "word": "leaks"
+            },
+            {
+              "endTime": "20.500s",
+              "startTime": "20.400s",
+              "word": "in"
+            },
+            {
+              "endTime": "20.500s",
+              "startTime": "20.500s",
+              "word": "a"
+            },
+            {
+              "endTime": "21s",
+              "startTime": "20.500s",
+              "word": "similar"
+            },
+            {
+              "endTime": "21.400s",
+              "startTime": "21s",
+              "word": "vein"
+            },
+            {
+              "endTime": "21.600s",
+              "startTime": "21.400s",
+              "word": "to"
+            },
+            {
+              "endTime": "22s",
+              "startTime": "21.600s",
+              "word": "Julian"
+            },
+            {
+              "endTime": "22.600s",
+              "startTime": "22s",
+              "word": "assange's,"
+            },
+            {
+              "endTime": "23.700s",
+              "startTime": "22.900s",
+              "word": "WikiLeaks."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "24.130s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128385,
+          "transcript": " Instead of publishing leaked documents pertaining to government accountability issues, alien leaks is solely focused on publishing documents, which discuss extraterrestrial biology technology and Communications.",
+          "words": [
+            {
+              "endTime": "32.300s",
+              "startTime": "31.900s",
+              "word": "Instead"
+            },
+            {
+              "endTime": "32.500s",
+              "startTime": "32.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "33.100s",
+              "startTime": "32.500s",
+              "word": "publishing"
+            },
+            {
+              "endTime": "33.600s",
+              "startTime": "33.100s",
+              "word": "leaked"
+            },
+            {
+              "endTime": "34.300s",
+              "startTime": "33.600s",
+              "word": "documents"
+            },
+            {
+              "endTime": "34.800s",
+              "startTime": "34.300s",
+              "word": "pertaining"
+            },
+            {
+              "endTime": "34.900s",
+              "startTime": "34.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "35.400s",
+              "startTime": "34.900s",
+              "word": "government"
+            },
+            {
+              "endTime": "36.100s",
+              "startTime": "35.400s",
+              "word": "accountability"
+            },
+            {
+              "endTime": "36.800s",
+              "startTime": "36.100s",
+              "word": "issues,"
+            },
+            {
+              "endTime": "37.900s",
+              "startTime": "37.500s",
+              "word": "alien"
+            },
+            {
+              "endTime": "38.400s",
+              "startTime": "37.900s",
+              "word": "leaks"
+            },
+            {
+              "endTime": "39.300s",
+              "startTime": "39s",
+              "word": "is"
+            },
+            {
+              "endTime": "39.800s",
+              "startTime": "39.300s",
+              "word": "solely"
+            },
+            {
+              "endTime": "40.600s",
+              "startTime": "39.800s",
+              "word": "focused"
+            },
+            {
+              "endTime": "41s",
+              "startTime": "40.800s",
+              "word": "on"
+            },
+            {
+              "endTime": "41.500s",
+              "startTime": "41s",
+              "word": "publishing"
+            },
+            {
+              "endTime": "42.200s",
+              "startTime": "41.500s",
+              "word": "documents,"
+            },
+            {
+              "endTime": "43.100s",
+              "startTime": "42.800s",
+              "word": "which"
+            },
+            {
+              "endTime": "43.800s",
+              "startTime": "43.100s",
+              "word": "discuss"
+            },
+            {
+              "endTime": "45.100s",
+              "startTime": "44s",
+              "word": "extraterrestrial"
+            },
+            {
+              "endTime": "46.300s",
+              "startTime": "45.500s",
+              "word": "biology"
+            },
+            {
+              "endTime": "47.200s",
+              "startTime": "46.400s",
+              "word": "technology"
+            },
+            {
+              "endTime": "47.800s",
+              "startTime": "47.200s",
+              "word": "and"
+            },
+            {
+              "endTime": "48.900s",
+              "startTime": "48s",
+              "word": "Communications."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "49.300s"
+    },
+    {
+      "alternatives": [
+        {}
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "50.810s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283834,
+          "transcript": " It is important to emphasize our desire to obtain, first-hand information from insiders within Global governments as well as scientists with information. Both at private and public Labs, that may be suppressed from going forward with their data research or proof.",
+          "words": [
+            {
+              "endTime": "56.300s",
+              "startTime": "56.200s",
+              "word": "It"
+            },
+            {
+              "endTime": "56.500s",
+              "startTime": "56.300s",
+              "word": "is"
+            },
+            {
+              "endTime": "57.200s",
+              "startTime": "56.500s",
+              "word": "important"
+            },
+            {
+              "endTime": "57.300s",
+              "startTime": "57.200s",
+              "word": "to"
+            },
+            {
+              "endTime": "58s",
+              "startTime": "57.300s",
+              "word": "emphasize"
+            },
+            {
+              "endTime": "58.100s",
+              "startTime": "58s",
+              "word": "our"
+            },
+            {
+              "endTime": "58.900s",
+              "startTime": "58.100s",
+              "word": "desire"
+            },
+            {
+              "endTime": "59.100s",
+              "startTime": "59s",
+              "word": "to"
+            },
+            {
+              "endTime": "59.700s",
+              "startTime": "59.100s",
+              "word": "obtain,"
+            },
+            {
+              "endTime": "61.300s",
+              "startTime": "60.100s",
+              "word": "first-hand"
+            },
+            {
+              "endTime": "62.100s",
+              "startTime": "61.300s",
+              "word": "information"
+            },
+            {
+              "endTime": "62.900s",
+              "startTime": "62.600s",
+              "word": "from"
+            },
+            {
+              "endTime": "63.500s",
+              "startTime": "62.900s",
+              "word": "insiders"
+            },
+            {
+              "endTime": "63.900s",
+              "startTime": "63.500s",
+              "word": "within"
+            },
+            {
+              "endTime": "64.300s",
+              "startTime": "63.900s",
+              "word": "Global"
+            },
+            {
+              "endTime": "65s",
+              "startTime": "64.300s",
+              "word": "governments"
+            },
+            {
+              "endTime": "65.800s",
+              "startTime": "65.600s",
+              "word": "as"
+            },
+            {
+              "endTime": "66s",
+              "startTime": "65.800s",
+              "word": "well"
+            },
+            {
+              "endTime": "66.200s",
+              "startTime": "66s",
+              "word": "as"
+            },
+            {
+              "endTime": "67.100s",
+              "startTime": "66.200s",
+              "word": "scientists"
+            },
+            {
+              "endTime": "67.600s",
+              "startTime": "67.400s",
+              "word": "with"
+            },
+            {
+              "endTime": "68.300s",
+              "startTime": "67.600s",
+              "word": "information."
+            },
+            {
+              "endTime": "68.800s",
+              "startTime": "68.300s",
+              "word": "Both"
+            },
+            {
+              "endTime": "69.100s",
+              "startTime": "68.800s",
+              "word": "at"
+            },
+            {
+              "endTime": "69.700s",
+              "startTime": "69.100s",
+              "word": "private"
+            },
+            {
+              "endTime": "70.200s",
+              "startTime": "69.700s",
+              "word": "and"
+            },
+            {
+              "endTime": "70.600s",
+              "startTime": "70.200s",
+              "word": "public"
+            },
+            {
+              "endTime": "71.100s",
+              "startTime": "70.600s",
+              "word": "Labs,"
+            },
+            {
+              "endTime": "72.200s",
+              "startTime": "72.100s",
+              "word": "that"
+            },
+            {
+              "endTime": "72.400s",
+              "startTime": "72.200s",
+              "word": "may"
+            },
+            {
+              "endTime": "72.500s",
+              "startTime": "72.400s",
+              "word": "be"
+            },
+            {
+              "endTime": "73.200s",
+              "startTime": "72.500s",
+              "word": "suppressed"
+            },
+            {
+              "endTime": "73.400s",
+              "startTime": "73.200s",
+              "word": "from"
+            },
+            {
+              "endTime": "73.700s",
+              "startTime": "73.400s",
+              "word": "going"
+            },
+            {
+              "endTime": "74.300s",
+              "startTime": "73.700s",
+              "word": "forward"
+            },
+            {
+              "endTime": "74.600s",
+              "startTime": "74.400s",
+              "word": "with"
+            },
+            {
+              "endTime": "74.800s",
+              "startTime": "74.600s",
+              "word": "their"
+            },
+            {
+              "endTime": "75.200s",
+              "startTime": "74.800s",
+              "word": "data"
+            },
+            {
+              "endTime": "76.700s",
+              "startTime": "76s",
+              "word": "research"
+            },
+            {
+              "endTime": "77.200s",
+              "startTime": "76.800s",
+              "word": "or"
+            },
+            {
+              "endTime": "77.800s",
+              "startTime": "77.300s",
+              "word": "proof."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "78.450s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " When information is suppressed, it is often with the intent to preserve or to gain more power by the offending entity.",
+          "words": [
+            {
+              "endTime": "80.100s",
+              "startTime": "79.700s",
+              "word": "When"
+            },
+            {
+              "endTime": "80.800s",
+              "startTime": "80.100s",
+              "word": "information"
+            },
+            {
+              "endTime": "81.100s",
+              "startTime": "80.800s",
+              "word": "is"
+            },
+            {
+              "endTime": "81.900s",
+              "startTime": "81.100s",
+              "word": "suppressed,"
+            },
+            {
+              "endTime": "82.200s",
+              "startTime": "82s",
+              "word": "it"
+            },
+            {
+              "endTime": "82.400s",
+              "startTime": "82.200s",
+              "word": "is"
+            },
+            {
+              "endTime": "83s",
+              "startTime": "82.400s",
+              "word": "often"
+            },
+            {
+              "endTime": "83.700s",
+              "startTime": "83.500s",
+              "word": "with"
+            },
+            {
+              "endTime": "83.800s",
+              "startTime": "83.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "84.500s",
+              "startTime": "83.800s",
+              "word": "intent"
+            },
+            {
+              "endTime": "84.600s",
+              "startTime": "84.500s",
+              "word": "to"
+            },
+            {
+              "endTime": "85.400s",
+              "startTime": "84.600s",
+              "word": "preserve"
+            },
+            {
+              "endTime": "85.900s",
+              "startTime": "85.800s",
+              "word": "or"
+            },
+            {
+              "endTime": "86.100s",
+              "startTime": "85.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "86.500s",
+              "startTime": "86.100s",
+              "word": "gain"
+            },
+            {
+              "endTime": "86.700s",
+              "startTime": "86.500s",
+              "word": "more"
+            },
+            {
+              "endTime": "87.300s",
+              "startTime": "86.700s",
+              "word": "power"
+            },
+            {
+              "endTime": "87.600s",
+              "startTime": "87.400s",
+              "word": "by"
+            },
+            {
+              "endTime": "87.700s",
+              "startTime": "87.600s",
+              "word": "the"
+            },
+            {
+              "endTime": "88.300s",
+              "startTime": "87.700s",
+              "word": "offending"
+            },
+            {
+              "endTime": "88.900s",
+              "startTime": "88.300s",
+              "word": "entity."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "89.280s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84398746,
+          "transcript": " Keeping any information withheld from the public with regard to scientific discoveries is a corrupt act which facilitates further corruption and harm to both National and Global Citizens.",
+          "words": [
+            {
+              "endTime": "90.900s",
+              "startTime": "90.300s",
+              "word": "Keeping"
+            },
+            {
+              "endTime": "91.400s",
+              "startTime": "90.900s",
+              "word": "any"
+            },
+            {
+              "endTime": "92.100s",
+              "startTime": "91.500s",
+              "word": "information"
+            },
+            {
+              "endTime": "92.600s",
+              "startTime": "92.100s",
+              "word": "withheld"
+            },
+            {
+              "endTime": "92.800s",
+              "startTime": "92.600s",
+              "word": "from"
+            },
+            {
+              "endTime": "92.900s",
+              "startTime": "92.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "93.400s",
+              "startTime": "92.900s",
+              "word": "public"
+            },
+            {
+              "endTime": "93.600s",
+              "startTime": "93.400s",
+              "word": "with"
+            },
+            {
+              "endTime": "94.300s",
+              "startTime": "93.600s",
+              "word": "regard"
+            },
+            {
+              "endTime": "94.500s",
+              "startTime": "94.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "95.200s",
+              "startTime": "94.500s",
+              "word": "scientific"
+            },
+            {
+              "endTime": "96.100s",
+              "startTime": "95.200s",
+              "word": "discoveries"
+            },
+            {
+              "endTime": "97.200s",
+              "startTime": "97s",
+              "word": "is"
+            },
+            {
+              "endTime": "97.300s",
+              "startTime": "97.200s",
+              "word": "a"
+            },
+            {
+              "endTime": "97.900s",
+              "startTime": "97.300s",
+              "word": "corrupt"
+            },
+            {
+              "endTime": "98.500s",
+              "startTime": "97.900s",
+              "word": "act"
+            },
+            {
+              "endTime": "99.400s",
+              "startTime": "99s",
+              "word": "which"
+            },
+            {
+              "endTime": "100.300s",
+              "startTime": "99.400s",
+              "word": "facilitates"
+            },
+            {
+              "endTime": "100.800s",
+              "startTime": "100.300s",
+              "word": "further"
+            },
+            {
+              "endTime": "101.400s",
+              "startTime": "100.800s",
+              "word": "corruption"
+            },
+            {
+              "endTime": "102.300s",
+              "startTime": "102s",
+              "word": "and"
+            },
+            {
+              "endTime": "102.900s",
+              "startTime": "102.300s",
+              "word": "harm"
+            },
+            {
+              "endTime": "103.500s",
+              "startTime": "103.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "103.800s",
+              "startTime": "103.500s",
+              "word": "both"
+            },
+            {
+              "endTime": "104.500s",
+              "startTime": "103.800s",
+              "word": "National"
+            },
+            {
+              "endTime": "105.200s",
+              "startTime": "104.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "106.100s",
+              "startTime": "105.400s",
+              "word": "Global"
+            },
+            {
+              "endTime": "107s",
+              "startTime": "106.100s",
+              "word": "Citizens."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "107.370s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83449554,
+          "transcript": " It is my intention to build alien leaks into a global repository of both leaked documents as well as open source documents of high relevance.",
+          "words": [
+            {
+              "endTime": "112.400s",
+              "startTime": "112.200s",
+              "word": "It"
+            },
+            {
+              "endTime": "112.800s",
+              "startTime": "112.400s",
+              "word": "is"
+            },
+            {
+              "endTime": "113s",
+              "startTime": "112.800s",
+              "word": "my"
+            },
+            {
+              "endTime": "113.600s",
+              "startTime": "113s",
+              "word": "intention"
+            },
+            {
+              "endTime": "113.800s",
+              "startTime": "113.600s",
+              "word": "to"
+            },
+            {
+              "endTime": "114.400s",
+              "startTime": "113.800s",
+              "word": "build"
+            },
+            {
+              "endTime": "114.800s",
+              "startTime": "114.400s",
+              "word": "alien"
+            },
+            {
+              "endTime": "115.300s",
+              "startTime": "114.800s",
+              "word": "leaks"
+            },
+            {
+              "endTime": "116s",
+              "startTime": "115.400s",
+              "word": "into"
+            },
+            {
+              "endTime": "116.900s",
+              "startTime": "116.700s",
+              "word": "a"
+            },
+            {
+              "endTime": "117.600s",
+              "startTime": "116.900s",
+              "word": "global"
+            },
+            {
+              "endTime": "118.500s",
+              "startTime": "117.600s",
+              "word": "repository"
+            },
+            {
+              "endTime": "119.200s",
+              "startTime": "118.900s",
+              "word": "of"
+            },
+            {
+              "endTime": "119.800s",
+              "startTime": "119.200s",
+              "word": "both"
+            },
+            {
+              "endTime": "120.600s",
+              "startTime": "120.200s",
+              "word": "leaked"
+            },
+            {
+              "endTime": "121.400s",
+              "startTime": "120.600s",
+              "word": "documents"
+            },
+            {
+              "endTime": "122s",
+              "startTime": "121.700s",
+              "word": "as"
+            },
+            {
+              "endTime": "122.400s",
+              "startTime": "122s",
+              "word": "well"
+            },
+            {
+              "endTime": "123s",
+              "startTime": "122.400s",
+              "word": "as"
+            },
+            {
+              "endTime": "124s",
+              "startTime": "123.700s",
+              "word": "open"
+            },
+            {
+              "endTime": "124.400s",
+              "startTime": "124s",
+              "word": "source"
+            },
+            {
+              "endTime": "124.900s",
+              "startTime": "124.400s",
+              "word": "documents"
+            },
+            {
+              "endTime": "125.100s",
+              "startTime": "124.900s",
+              "word": "of"
+            },
+            {
+              "endTime": "125.700s",
+              "startTime": "125.100s",
+              "word": "high"
+            },
+            {
+              "endTime": "126.700s",
+              "startTime": "125.900s",
+              "word": "relevance."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "127.060s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128385,
+          "transcript": " Submissions are accepted in any language.",
+          "words": [
+            {
+              "endTime": "136.400s",
+              "startTime": "135.700s",
+              "word": "Submissions"
+            },
+            {
+              "endTime": "136.500s",
+              "startTime": "136.400s",
+              "word": "are"
+            },
+            {
+              "endTime": "137.300s",
+              "startTime": "136.500s",
+              "word": "accepted"
+            },
+            {
+              "endTime": "137.600s",
+              "startTime": "137.300s",
+              "word": "in"
+            },
+            {
+              "endTime": "137.900s",
+              "startTime": "137.600s",
+              "word": "any"
+            },
+            {
+              "endTime": "138.500s",
+              "startTime": "137.900s",
+              "word": "language."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "139s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8179886,
+          "transcript": " Since leaving H cone, I have hand-built many wooden toys.",
+          "words": [
+            {
+              "endTime": "141.900s",
+              "startTime": "141.500s",
+              "word": "Since"
+            },
+            {
+              "endTime": "142.300s",
+              "startTime": "141.900s",
+              "word": "leaving"
+            },
+            {
+              "endTime": "142.500s",
+              "startTime": "142.300s",
+              "word": "H"
+            },
+            {
+              "endTime": "142.900s",
+              "startTime": "142.500s",
+              "word": "cone,"
+            },
+            {
+              "endTime": "143.600s",
+              "startTime": "143.400s",
+              "word": "I"
+            },
+            {
+              "endTime": "144.100s",
+              "startTime": "143.600s",
+              "word": "have"
+            },
+            {
+              "endTime": "145.200s",
+              "startTime": "144.100s",
+              "word": "hand-built"
+            },
+            {
+              "endTime": "145.800s",
+              "startTime": "145.300s",
+              "word": "many"
+            },
+            {
+              "endTime": "146.200s",
+              "startTime": "145.800s",
+              "word": "wooden"
+            },
+            {
+              "endTime": "146.900s",
+              "startTime": "146.200s",
+              "word": "toys."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "147.310s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8878155,
+          "transcript": " Donating to children and orphanages throughout my region of the world.",
+          "words": [
+            {
+              "endTime": "149.900s",
+              "startTime": "149.400s",
+              "word": "Donating"
+            },
+            {
+              "endTime": "150.100s",
+              "startTime": "149.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "150.700s",
+              "startTime": "150.100s",
+              "word": "children"
+            },
+            {
+              "endTime": "151s",
+              "startTime": "150.700s",
+              "word": "and"
+            },
+            {
+              "endTime": "151.800s",
+              "startTime": "151s",
+              "word": "orphanages"
+            },
+            {
+              "endTime": "152.800s",
+              "startTime": "152.300s",
+              "word": "throughout"
+            },
+            {
+              "endTime": "153s",
+              "startTime": "152.800s",
+              "word": "my"
+            },
+            {
+              "endTime": "153.300s",
+              "startTime": "153s",
+              "word": "region"
+            },
+            {
+              "endTime": "153.500s",
+              "startTime": "153.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "153.600s",
+              "startTime": "153.500s",
+              "word": "the"
+            },
+            {
+              "endTime": "154.100s",
+              "startTime": "153.600s",
+              "word": "world."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "154.500s"
+    },
+    {
+      "alternatives": [
+        {}
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "156.890s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " that being said,",
+          "words": [
+            {
+              "endTime": "159.800s",
+              "startTime": "159.500s",
+              "word": "that"
+            },
+            {
+              "endTime": "160.100s",
+              "startTime": "159.800s",
+              "word": "being"
+            },
+            {
+              "endTime": "160.600s",
+              "startTime": "160.100s",
+              "word": "said,"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "161.140s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.86766213,
+          "transcript": " I am no longer affiliated with Aitken and have no interest discussing Aitken or Q related material.",
+          "words": [
+            {
+              "endTime": "162s",
+              "startTime": "161.900s",
+              "word": "I"
+            },
+            {
+              "endTime": "162.100s",
+              "startTime": "162s",
+              "word": "am"
+            },
+            {
+              "endTime": "162.300s",
+              "startTime": "162.100s",
+              "word": "no"
+            },
+            {
+              "endTime": "162.800s",
+              "startTime": "162.300s",
+              "word": "longer"
+            },
+            {
+              "endTime": "163.500s",
+              "startTime": "162.800s",
+              "word": "affiliated"
+            },
+            {
+              "endTime": "163.700s",
+              "startTime": "163.500s",
+              "word": "with"
+            },
+            {
+              "endTime": "164.300s",
+              "startTime": "163.700s",
+              "word": "Aitken"
+            },
+            {
+              "endTime": "165.400s",
+              "startTime": "165.200s",
+              "word": "and"
+            },
+            {
+              "endTime": "165.600s",
+              "startTime": "165.400s",
+              "word": "have"
+            },
+            {
+              "endTime": "165.800s",
+              "startTime": "165.600s",
+              "word": "no"
+            },
+            {
+              "endTime": "166.500s",
+              "startTime": "165.800s",
+              "word": "interest"
+            },
+            {
+              "endTime": "167.100s",
+              "startTime": "166.500s",
+              "word": "discussing"
+            },
+            {
+              "endTime": "167.700s",
+              "startTime": "167.100s",
+              "word": "Aitken"
+            },
+            {
+              "endTime": "168.300s",
+              "startTime": "167.800s",
+              "word": "or"
+            },
+            {
+              "endTime": "168.800s",
+              "startTime": "168.400s",
+              "word": "Q"
+            },
+            {
+              "endTime": "169.200s",
+              "startTime": "168.800s",
+              "word": "related"
+            },
+            {
+              "endTime": "169.900s",
+              "startTime": "169.200s",
+              "word": "material."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "170.220s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.816088,
+          "transcript": " I have always been opposed to Violent criminal acts in the name of any group.",
+          "words": [
+            {
+              "endTime": "172.700s",
+              "startTime": "172.600s",
+              "word": "I"
+            },
+            {
+              "endTime": "173.200s",
+              "startTime": "172.700s",
+              "word": "have"
+            },
+            {
+              "endTime": "173.700s",
+              "startTime": "173.200s",
+              "word": "always"
+            },
+            {
+              "endTime": "173.900s",
+              "startTime": "173.700s",
+              "word": "been"
+            },
+            {
+              "endTime": "174.700s",
+              "startTime": "173.900s",
+              "word": "opposed"
+            },
+            {
+              "endTime": "174.900s",
+              "startTime": "174.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "175.500s",
+              "startTime": "174.900s",
+              "word": "Violent"
+            },
+            {
+              "endTime": "176s",
+              "startTime": "175.500s",
+              "word": "criminal"
+            },
+            {
+              "endTime": "176.500s",
+              "startTime": "176s",
+              "word": "acts"
+            },
+            {
+              "endTime": "177.200s",
+              "startTime": "177.100s",
+              "word": "in"
+            },
+            {
+              "endTime": "177.300s",
+              "startTime": "177.200s",
+              "word": "the"
+            },
+            {
+              "endTime": "177.500s",
+              "startTime": "177.300s",
+              "word": "name"
+            },
+            {
+              "endTime": "177.700s",
+              "startTime": "177.500s",
+              "word": "of"
+            },
+            {
+              "endTime": "177.900s",
+              "startTime": "177.700s",
+              "word": "any"
+            },
+            {
+              "endTime": "178.400s",
+              "startTime": "177.900s",
+              "word": "group."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "178.720s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8997213,
+          "transcript": " However, I do believe strongly in the fundamental, right to legally express our beliefs and ideas in ways protected by the Constitution.",
+          "words": [
+            {
+              "endTime": "189.400s",
+              "startTime": "188.700s",
+              "word": "However,"
+            },
+            {
+              "endTime": "189.500s",
+              "startTime": "189.400s",
+              "word": "I"
+            },
+            {
+              "endTime": "189.800s",
+              "startTime": "189.500s",
+              "word": "do"
+            },
+            {
+              "endTime": "190.100s",
+              "startTime": "189.800s",
+              "word": "believe"
+            },
+            {
+              "endTime": "190.900s",
+              "startTime": "190.100s",
+              "word": "strongly"
+            },
+            {
+              "endTime": "191.200s",
+              "startTime": "191.100s",
+              "word": "in"
+            },
+            {
+              "endTime": "191.300s",
+              "startTime": "191.200s",
+              "word": "the"
+            },
+            {
+              "endTime": "192s",
+              "startTime": "191.300s",
+              "word": "fundamental,"
+            },
+            {
+              "endTime": "192.500s",
+              "startTime": "192s",
+              "word": "right"
+            },
+            {
+              "endTime": "193s",
+              "startTime": "192.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "193.600s",
+              "startTime": "193s",
+              "word": "legally"
+            },
+            {
+              "endTime": "194.200s",
+              "startTime": "193.600s",
+              "word": "express"
+            },
+            {
+              "endTime": "194.400s",
+              "startTime": "194.200s",
+              "word": "our"
+            },
+            {
+              "endTime": "195.100s",
+              "startTime": "194.400s",
+              "word": "beliefs"
+            },
+            {
+              "endTime": "195.800s",
+              "startTime": "195.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "196.500s",
+              "startTime": "195.800s",
+              "word": "ideas"
+            },
+            {
+              "endTime": "196.900s",
+              "startTime": "196.800s",
+              "word": "in"
+            },
+            {
+              "endTime": "197.200s",
+              "startTime": "196.900s",
+              "word": "ways"
+            },
+            {
+              "endTime": "197.700s",
+              "startTime": "197.200s",
+              "word": "protected"
+            },
+            {
+              "endTime": "197.800s",
+              "startTime": "197.700s",
+              "word": "by"
+            },
+            {
+              "endTime": "198s",
+              "startTime": "197.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "198.800s",
+              "startTime": "198s",
+              "word": "Constitution."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "199.170s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128386,
+          "transcript": " Regardless of mainstream acceptance.",
+          "words": [
+            {
+              "endTime": "201.600s",
+              "startTime": "200.700s",
+              "word": "Regardless"
+            },
+            {
+              "endTime": "202.100s",
+              "startTime": "201.900s",
+              "word": "of"
+            },
+            {
+              "endTime": "202.800s",
+              "startTime": "202.100s",
+              "word": "mainstream"
+            },
+            {
+              "endTime": "203.700s",
+              "startTime": "202.900s",
+              "word": "acceptance."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "204.130s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7071451,
+          "transcript": " I am not q and have never posted as queue.",
+          "words": [
+            {
+              "endTime": "208.100s",
+              "startTime": "207.900s",
+              "word": "I"
+            },
+            {
+              "endTime": "208.200s",
+              "startTime": "208.100s",
+              "word": "am"
+            },
+            {
+              "endTime": "208.500s",
+              "startTime": "208.200s",
+              "word": "not"
+            },
+            {
+              "endTime": "209.100s",
+              "startTime": "208.500s",
+              "word": "q"
+            },
+            {
+              "endTime": "209.600s",
+              "startTime": "209.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "209.800s",
+              "startTime": "209.600s",
+              "word": "have"
+            },
+            {
+              "endTime": "210.200s",
+              "startTime": "209.800s",
+              "word": "never"
+            },
+            {
+              "endTime": "210.800s",
+              "startTime": "210.200s",
+              "word": "posted"
+            },
+            {
+              "endTime": "211.100s",
+              "startTime": "210.800s",
+              "word": "as"
+            },
+            {
+              "endTime": "211.600s",
+              "startTime": "211.100s",
+              "word": "queue."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "212.130s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128387,
+          "transcript": " The ongoing censorship of scientific discovery. Derived from extraterrestrial technology is, unfortunately, our current reality",
+          "words": [
+            {
+              "endTime": "219.400s",
+              "startTime": "219.200s",
+              "word": "The"
+            },
+            {
+              "endTime": "219.900s",
+              "startTime": "219.400s",
+              "word": "ongoing"
+            },
+            {
+              "endTime": "220.800s",
+              "startTime": "219.900s",
+              "word": "censorship"
+            },
+            {
+              "endTime": "221s",
+              "startTime": "220.800s",
+              "word": "of"
+            },
+            {
+              "endTime": "221.700s",
+              "startTime": "221s",
+              "word": "scientific"
+            },
+            {
+              "endTime": "222.400s",
+              "startTime": "221.700s",
+              "word": "discovery."
+            },
+            {
+              "endTime": "223.800s",
+              "startTime": "223.100s",
+              "word": "Derived"
+            },
+            {
+              "endTime": "224.300s",
+              "startTime": "223.800s",
+              "word": "from"
+            },
+            {
+              "endTime": "226.100s",
+              "startTime": "224.900s",
+              "word": "extraterrestrial"
+            },
+            {
+              "endTime": "226.900s",
+              "startTime": "226.100s",
+              "word": "technology"
+            },
+            {
+              "endTime": "228.400s",
+              "startTime": "228s",
+              "word": "is,"
+            },
+            {
+              "endTime": "229.500s",
+              "startTime": "228.400s",
+              "word": "unfortunately,"
+            },
+            {
+              "endTime": "230.200s",
+              "startTime": "229.600s",
+              "word": "our"
+            },
+            {
+              "endTime": "230.600s",
+              "startTime": "230.200s",
+              "word": "current"
+            },
+            {
+              "endTime": "231.300s",
+              "startTime": "230.600s",
+              "word": "reality"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "231.710s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9121937,
+          "transcript": " Together, we can break through the archaic restrictions of the past while building together a solid foundation of on oppressed and uncensored scientific discovery.",
+          "words": [
+            {
+              "endTime": "234.600s",
+              "startTime": "234.100s",
+              "word": "Together,"
+            },
+            {
+              "endTime": "234.800s",
+              "startTime": "234.600s",
+              "word": "we"
+            },
+            {
+              "endTime": "235s",
+              "startTime": "234.800s",
+              "word": "can"
+            },
+            {
+              "endTime": "235.300s",
+              "startTime": "235s",
+              "word": "break"
+            },
+            {
+              "endTime": "235.800s",
+              "startTime": "235.300s",
+              "word": "through"
+            },
+            {
+              "endTime": "236s",
+              "startTime": "235.900s",
+              "word": "the"
+            },
+            {
+              "endTime": "236.500s",
+              "startTime": "236s",
+              "word": "archaic"
+            },
+            {
+              "endTime": "237.200s",
+              "startTime": "236.500s",
+              "word": "restrictions"
+            },
+            {
+              "endTime": "237.300s",
+              "startTime": "237.200s",
+              "word": "of"
+            },
+            {
+              "endTime": "237.400s",
+              "startTime": "237.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "238.100s",
+              "startTime": "237.400s",
+              "word": "past"
+            },
+            {
+              "endTime": "239.600s",
+              "startTime": "239.200s",
+              "word": "while"
+            },
+            {
+              "endTime": "240s",
+              "startTime": "239.600s",
+              "word": "building"
+            },
+            {
+              "endTime": "240.600s",
+              "startTime": "240s",
+              "word": "together"
+            },
+            {
+              "endTime": "240.800s",
+              "startTime": "240.600s",
+              "word": "a"
+            },
+            {
+              "endTime": "241.300s",
+              "startTime": "240.800s",
+              "word": "solid"
+            },
+            {
+              "endTime": "242s",
+              "startTime": "241.300s",
+              "word": "foundation"
+            },
+            {
+              "endTime": "242.500s",
+              "startTime": "242s",
+              "word": "of"
+            },
+            {
+              "endTime": "243.200s",
+              "startTime": "242.900s",
+              "word": "on"
+            },
+            {
+              "endTime": "244s",
+              "startTime": "243.200s",
+              "word": "oppressed"
+            },
+            {
+              "endTime": "244.600s",
+              "startTime": "244.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "246.100s",
+              "startTime": "244.800s",
+              "word": "uncensored"
+            },
+            {
+              "endTime": "246.900s",
+              "startTime": "246.300s",
+              "word": "scientific"
+            },
+            {
+              "endTime": "247.600s",
+              "startTime": "246.900s",
+              "word": "discovery."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "248.020s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " Let's work together towards the opening and advancement of our spacefaring species.",
+          "words": [
+            {
+              "endTime": "249.700s",
+              "startTime": "249.400s",
+              "word": "Let's"
+            },
+            {
+              "endTime": "250.100s",
+              "startTime": "249.700s",
+              "word": "work"
+            },
+            {
+              "endTime": "250.700s",
+              "startTime": "250.100s",
+              "word": "together"
+            },
+            {
+              "endTime": "251.300s",
+              "startTime": "250.800s",
+              "word": "towards"
+            },
+            {
+              "endTime": "251.500s",
+              "startTime": "251.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "252s",
+              "startTime": "251.500s",
+              "word": "opening"
+            },
+            {
+              "endTime": "253.300s",
+              "startTime": "253.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "254.300s",
+              "startTime": "253.300s",
+              "word": "advancement"
+            },
+            {
+              "endTime": "254.500s",
+              "startTime": "254.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "255s",
+              "startTime": "254.500s",
+              "word": "our"
+            },
+            {
+              "endTime": "255.900s",
+              "startTime": "255.100s",
+              "word": "spacefaring"
+            },
+            {
+              "endTime": "256.700s",
+              "startTime": "255.900s",
+              "word": "species."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "257.130s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " Let's work together towards the opening and advancement of our spacefaring species.",
+          "words": [
+            {
+              "endTime": "249.700s",
+              "startTime": "249.400s",
+              "word": "Let's"
+            },
+            {
+              "endTime": "250.100s",
+              "startTime": "249.700s",
+              "word": "work"
+            },
+            {
+              "endTime": "250.700s",
+              "startTime": "250.100s",
+              "word": "together"
+            },
+            {
+              "endTime": "251.300s",
+              "startTime": "250.800s",
+              "word": "towards"
+            },
+            {
+              "endTime": "251.500s",
+              "startTime": "251.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "252s",
+              "startTime": "251.500s",
+              "word": "opening"
+            },
+            {
+              "endTime": "253.300s",
+              "startTime": "253.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "254.300s",
+              "startTime": "253.300s",
+              "word": "advancement"
+            },
+            {
+              "endTime": "254.500s",
+              "startTime": "254.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "255s",
+              "startTime": "254.500s",
+              "word": "our"
+            },
+            {
+              "endTime": "255.900s",
+              "startTime": "255.100s",
+              "word": "spacefaring"
+            },
+            {
+              "endTime": "256.700s",
+              "startTime": "255.900s",
+              "word": "species."
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "257.130s"
+    },
+    {
+      "alternatives": [
+        {
+          "words": [
+            {
+              "endTime": "4.100s",
+              "speakerTag": 3,
+              "startTime": "3.300s",
+              "word": "Greetings,"
+            },
+            {
+              "endTime": "5.100s",
+              "speakerTag": 1,
+              "startTime": "4.900s",
+              "word": "I"
+            },
+            {
+              "endTime": "5.400s",
+              "speakerTag": 1,
+              "startTime": "5.100s",
+              "word": "am"
+            },
+            {
+              "endTime": "5.600s",
+              "speakerTag": 1,
+              "startTime": "5.400s",
+              "word": "Ron"
+            },
+            {
+              "endTime": "6.300s",
+              "speakerTag": 1,
+              "startTime": "5.600s",
+              "word": "Watkins."
+            },
+            {
+              "endTime": "6.800s",
+              "speakerTag": 1,
+              "startTime": "6.600s",
+              "word": "The"
+            },
+            {
+              "endTime": "7.400s",
+              "speakerTag": 1,
+              "startTime": "6.800s",
+              "word": "founder"
+            },
+            {
+              "endTime": "7.700s",
+              "speakerTag": 1,
+              "startTime": "7.400s",
+              "word": "of"
+            },
+            {
+              "endTime": "8.100s",
+              "speakerTag": 1,
+              "startTime": "7.700s",
+              "word": "alien"
+            },
+            {
+              "endTime": "8.600s",
+              "speakerTag": 1,
+              "startTime": "8.100s",
+              "word": "leaks."
+            },
+            {
+              "endTime": "13.100s",
+              "speakerTag": 1,
+              "startTime": "12.800s",
+              "word": "Having"
+            },
+            {
+              "endTime": "13.200s",
+              "speakerTag": 1,
+              "startTime": "13.100s",
+              "word": "an"
+            },
+            {
+              "endTime": "13.800s",
+              "speakerTag": 1,
+              "startTime": "13.200s",
+              "word": "interest"
+            },
+            {
+              "endTime": "14s",
+              "speakerTag": 1,
+              "startTime": "13.800s",
+              "word": "in"
+            },
+            {
+              "endTime": "15.100s",
+              "speakerTag": 1,
+              "startTime": "14s",
+              "word": "extraterrestrial"
+            },
+            {
+              "endTime": "15.600s",
+              "speakerTag": 1,
+              "startTime": "15.100s",
+              "word": "activity."
+            },
+            {
+              "endTime": "16s",
+              "speakerTag": 1,
+              "startTime": "15.600s",
+              "word": "Since"
+            },
+            {
+              "endTime": "16.800s",
+              "speakerTag": 1,
+              "startTime": "16s",
+              "word": "childhood"
+            },
+            {
+              "endTime": "18s",
+              "speakerTag": 1,
+              "startTime": "17.800s",
+              "word": "I"
+            },
+            {
+              "endTime": "18.800s",
+              "speakerTag": 1,
+              "startTime": "18s",
+              "word": "designed"
+            },
+            {
+              "endTime": "19.400s",
+              "speakerTag": 1,
+              "startTime": "18.900s",
+              "word": "alien"
+            },
+            {
+              "endTime": "19.900s",
+              "speakerTag": 1,
+              "startTime": "19.400s",
+              "word": "leaks"
+            },
+            {
+              "endTime": "20.500s",
+              "speakerTag": 1,
+              "startTime": "20.400s",
+              "word": "in"
+            },
+            {
+              "endTime": "20.500s",
+              "speakerTag": 1,
+              "startTime": "20.500s",
+              "word": "a"
+            },
+            {
+              "endTime": "21s",
+              "speakerTag": 1,
+              "startTime": "20.500s",
+              "word": "similar"
+            },
+            {
+              "endTime": "21.400s",
+              "speakerTag": 1,
+              "startTime": "21s",
+              "word": "vein"
+            },
+            {
+              "endTime": "21.600s",
+              "speakerTag": 1,
+              "startTime": "21.400s",
+              "word": "to"
+            },
+            {
+              "endTime": "22s",
+              "speakerTag": 1,
+              "startTime": "21.600s",
+              "word": "Julian"
+            },
+            {
+              "endTime": "22.600s",
+              "speakerTag": 1,
+              "startTime": "22s",
+              "word": "assange's,"
+            },
+            {
+              "endTime": "23.700s",
+              "speakerTag": 1,
+              "startTime": "22.900s",
+              "word": "WikiLeaks."
+            },
+            {
+              "endTime": "32.300s",
+              "speakerTag": 1,
+              "startTime": "31.900s",
+              "word": "Instead"
+            },
+            {
+              "endTime": "32.500s",
+              "speakerTag": 1,
+              "startTime": "32.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "33.100s",
+              "speakerTag": 1,
+              "startTime": "32.500s",
+              "word": "publishing"
+            },
+            {
+              "endTime": "33.600s",
+              "speakerTag": 1,
+              "startTime": "33.100s",
+              "word": "leaked"
+            },
+            {
+              "endTime": "34.300s",
+              "speakerTag": 1,
+              "startTime": "33.600s",
+              "word": "documents"
+            },
+            {
+              "endTime": "34.800s",
+              "speakerTag": 1,
+              "startTime": "34.300s",
+              "word": "pertaining"
+            },
+            {
+              "endTime": "34.900s",
+              "speakerTag": 1,
+              "startTime": "34.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "35.400s",
+              "speakerTag": 1,
+              "startTime": "34.900s",
+              "word": "government"
+            },
+            {
+              "endTime": "36.100s",
+              "speakerTag": 1,
+              "startTime": "35.400s",
+              "word": "accountability"
+            },
+            {
+              "endTime": "36.800s",
+              "speakerTag": 1,
+              "startTime": "36.100s",
+              "word": "issues,"
+            },
+            {
+              "endTime": "37.900s",
+              "speakerTag": 1,
+              "startTime": "37.500s",
+              "word": "alien"
+            },
+            {
+              "endTime": "38.400s",
+              "speakerTag": 1,
+              "startTime": "37.900s",
+              "word": "leaks"
+            },
+            {
+              "endTime": "39.300s",
+              "speakerTag": 1,
+              "startTime": "39s",
+              "word": "is"
+            },
+            {
+              "endTime": "39.800s",
+              "speakerTag": 1,
+              "startTime": "39.300s",
+              "word": "solely"
+            },
+            {
+              "endTime": "40.600s",
+              "speakerTag": 1,
+              "startTime": "39.800s",
+              "word": "focused"
+            },
+            {
+              "endTime": "41s",
+              "speakerTag": 1,
+              "startTime": "40.800s",
+              "word": "on"
+            },
+            {
+              "endTime": "41.500s",
+              "speakerTag": 1,
+              "startTime": "41s",
+              "word": "publishing"
+            },
+            {
+              "endTime": "42.200s",
+              "speakerTag": 1,
+              "startTime": "41.500s",
+              "word": "documents,"
+            },
+            {
+              "endTime": "43.100s",
+              "speakerTag": 1,
+              "startTime": "42.800s",
+              "word": "which"
+            },
+            {
+              "endTime": "43.800s",
+              "speakerTag": 1,
+              "startTime": "43.100s",
+              "word": "discuss"
+            },
+            {
+              "endTime": "45.100s",
+              "speakerTag": 1,
+              "startTime": "44s",
+              "word": "extraterrestrial"
+            },
+            {
+              "endTime": "46.300s",
+              "speakerTag": 1,
+              "startTime": "45.500s",
+              "word": "biology"
+            },
+            {
+              "endTime": "47.200s",
+              "speakerTag": 1,
+              "startTime": "46.400s",
+              "word": "technology"
+            },
+            {
+              "endTime": "47.800s",
+              "speakerTag": 1,
+              "startTime": "47.200s",
+              "word": "and"
+            },
+            {
+              "endTime": "48.900s",
+              "speakerTag": 3,
+              "startTime": "48s",
+              "word": "Communications."
+            },
+            {
+              "endTime": "56.300s",
+              "speakerTag": 3,
+              "startTime": "56.200s",
+              "word": "It"
+            },
+            {
+              "endTime": "56.500s",
+              "speakerTag": 3,
+              "startTime": "56.300s",
+              "word": "is"
+            },
+            {
+              "endTime": "57.200s",
+              "speakerTag": 3,
+              "startTime": "56.500s",
+              "word": "important"
+            },
+            {
+              "endTime": "57.300s",
+              "speakerTag": 3,
+              "startTime": "57.200s",
+              "word": "to"
+            },
+            {
+              "endTime": "58s",
+              "speakerTag": 3,
+              "startTime": "57.300s",
+              "word": "emphasize"
+            },
+            {
+              "endTime": "58.100s",
+              "speakerTag": 3,
+              "startTime": "58s",
+              "word": "our"
+            },
+            {
+              "endTime": "58.900s",
+              "speakerTag": 3,
+              "startTime": "58.100s",
+              "word": "desire"
+            },
+            {
+              "endTime": "59.100s",
+              "speakerTag": 3,
+              "startTime": "59s",
+              "word": "to"
+            },
+            {
+              "endTime": "59.700s",
+              "speakerTag": 3,
+              "startTime": "59.100s",
+              "word": "obtain,"
+            },
+            {
+              "endTime": "61.300s",
+              "speakerTag": 3,
+              "startTime": "60.100s",
+              "word": "first-hand"
+            },
+            {
+              "endTime": "62.100s",
+              "speakerTag": 3,
+              "startTime": "61.300s",
+              "word": "information"
+            },
+            {
+              "endTime": "62.900s",
+              "speakerTag": 3,
+              "startTime": "62.600s",
+              "word": "from"
+            },
+            {
+              "endTime": "63.500s",
+              "speakerTag": 3,
+              "startTime": "62.900s",
+              "word": "insiders"
+            },
+            {
+              "endTime": "63.900s",
+              "speakerTag": 3,
+              "startTime": "63.500s",
+              "word": "within"
+            },
+            {
+              "endTime": "64.300s",
+              "speakerTag": 3,
+              "startTime": "63.900s",
+              "word": "Global"
+            },
+            {
+              "endTime": "65s",
+              "speakerTag": 3,
+              "startTime": "64.300s",
+              "word": "governments"
+            },
+            {
+              "endTime": "65.800s",
+              "speakerTag": 3,
+              "startTime": "65.600s",
+              "word": "as"
+            },
+            {
+              "endTime": "66s",
+              "speakerTag": 3,
+              "startTime": "65.800s",
+              "word": "well"
+            },
+            {
+              "endTime": "66.200s",
+              "speakerTag": 3,
+              "startTime": "66s",
+              "word": "as"
+            },
+            {
+              "endTime": "67.100s",
+              "speakerTag": 3,
+              "startTime": "66.200s",
+              "word": "scientists"
+            },
+            {
+              "endTime": "67.600s",
+              "speakerTag": 3,
+              "startTime": "67.400s",
+              "word": "with"
+            },
+            {
+              "endTime": "68.300s",
+              "speakerTag": 3,
+              "startTime": "67.600s",
+              "word": "information."
+            },
+            {
+              "endTime": "68.800s",
+              "speakerTag": 3,
+              "startTime": "68.300s",
+              "word": "Both"
+            },
+            {
+              "endTime": "69.100s",
+              "speakerTag": 3,
+              "startTime": "68.800s",
+              "word": "at"
+            },
+            {
+              "endTime": "69.700s",
+              "speakerTag": 3,
+              "startTime": "69.100s",
+              "word": "private"
+            },
+            {
+              "endTime": "70.200s",
+              "speakerTag": 3,
+              "startTime": "69.700s",
+              "word": "and"
+            },
+            {
+              "endTime": "70.600s",
+              "speakerTag": 3,
+              "startTime": "70.200s",
+              "word": "public"
+            },
+            {
+              "endTime": "71.100s",
+              "speakerTag": 3,
+              "startTime": "70.600s",
+              "word": "Labs,"
+            },
+            {
+              "endTime": "72.200s",
+              "speakerTag": 3,
+              "startTime": "72.100s",
+              "word": "that"
+            },
+            {
+              "endTime": "72.400s",
+              "speakerTag": 3,
+              "startTime": "72.200s",
+              "word": "may"
+            },
+            {
+              "endTime": "72.500s",
+              "speakerTag": 3,
+              "startTime": "72.400s",
+              "word": "be"
+            },
+            {
+              "endTime": "73.200s",
+              "speakerTag": 3,
+              "startTime": "72.500s",
+              "word": "suppressed"
+            },
+            {
+              "endTime": "73.400s",
+              "speakerTag": 3,
+              "startTime": "73.200s",
+              "word": "from"
+            },
+            {
+              "endTime": "73.700s",
+              "speakerTag": 3,
+              "startTime": "73.400s",
+              "word": "going"
+            },
+            {
+              "endTime": "74.300s",
+              "speakerTag": 3,
+              "startTime": "73.700s",
+              "word": "forward"
+            },
+            {
+              "endTime": "74.600s",
+              "speakerTag": 3,
+              "startTime": "74.400s",
+              "word": "with"
+            },
+            {
+              "endTime": "74.800s",
+              "speakerTag": 3,
+              "startTime": "74.600s",
+              "word": "their"
+            },
+            {
+              "endTime": "75.200s",
+              "speakerTag": 3,
+              "startTime": "74.800s",
+              "word": "data"
+            },
+            {
+              "endTime": "76.700s",
+              "speakerTag": 3,
+              "startTime": "76s",
+              "word": "research"
+            },
+            {
+              "endTime": "77.200s",
+              "speakerTag": 3,
+              "startTime": "76.800s",
+              "word": "or"
+            },
+            {
+              "endTime": "77.800s",
+              "speakerTag": 3,
+              "startTime": "77.300s",
+              "word": "proof."
+            },
+            {
+              "endTime": "80.100s",
+              "speakerTag": 1,
+              "startTime": "79.700s",
+              "word": "When"
+            },
+            {
+              "endTime": "80.800s",
+              "speakerTag": 1,
+              "startTime": "80.100s",
+              "word": "information"
+            },
+            {
+              "endTime": "81.100s",
+              "speakerTag": 1,
+              "startTime": "80.800s",
+              "word": "is"
+            },
+            {
+              "endTime": "81.900s",
+              "speakerTag": 1,
+              "startTime": "81.100s",
+              "word": "suppressed,"
+            },
+            {
+              "endTime": "82.200s",
+              "speakerTag": 1,
+              "startTime": "82s",
+              "word": "it"
+            },
+            {
+              "endTime": "82.400s",
+              "speakerTag": 1,
+              "startTime": "82.200s",
+              "word": "is"
+            },
+            {
+              "endTime": "83s",
+              "speakerTag": 1,
+              "startTime": "82.400s",
+              "word": "often"
+            },
+            {
+              "endTime": "83.700s",
+              "speakerTag": 1,
+              "startTime": "83.500s",
+              "word": "with"
+            },
+            {
+              "endTime": "83.800s",
+              "speakerTag": 1,
+              "startTime": "83.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "84.500s",
+              "speakerTag": 1,
+              "startTime": "83.800s",
+              "word": "intent"
+            },
+            {
+              "endTime": "84.600s",
+              "speakerTag": 1,
+              "startTime": "84.500s",
+              "word": "to"
+            },
+            {
+              "endTime": "85.400s",
+              "speakerTag": 1,
+              "startTime": "84.600s",
+              "word": "preserve"
+            },
+            {
+              "endTime": "85.900s",
+              "speakerTag": 1,
+              "startTime": "85.800s",
+              "word": "or"
+            },
+            {
+              "endTime": "86.100s",
+              "speakerTag": 1,
+              "startTime": "85.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "86.500s",
+              "speakerTag": 1,
+              "startTime": "86.100s",
+              "word": "gain"
+            },
+            {
+              "endTime": "86.700s",
+              "speakerTag": 1,
+              "startTime": "86.500s",
+              "word": "more"
+            },
+            {
+              "endTime": "87.300s",
+              "speakerTag": 1,
+              "startTime": "86.700s",
+              "word": "power"
+            },
+            {
+              "endTime": "87.600s",
+              "speakerTag": 1,
+              "startTime": "87.400s",
+              "word": "by"
+            },
+            {
+              "endTime": "87.700s",
+              "speakerTag": 1,
+              "startTime": "87.600s",
+              "word": "the"
+            },
+            {
+              "endTime": "88.300s",
+              "speakerTag": 1,
+              "startTime": "87.700s",
+              "word": "offending"
+            },
+            {
+              "endTime": "88.900s",
+              "speakerTag": 1,
+              "startTime": "88.300s",
+              "word": "entity."
+            },
+            {
+              "endTime": "90.900s",
+              "speakerTag": 1,
+              "startTime": "90.300s",
+              "word": "Keeping"
+            },
+            {
+              "endTime": "91.400s",
+              "speakerTag": 1,
+              "startTime": "90.900s",
+              "word": "any"
+            },
+            {
+              "endTime": "92.100s",
+              "speakerTag": 1,
+              "startTime": "91.500s",
+              "word": "information"
+            },
+            {
+              "endTime": "92.600s",
+              "speakerTag": 1,
+              "startTime": "92.100s",
+              "word": "withheld"
+            },
+            {
+              "endTime": "92.800s",
+              "speakerTag": 1,
+              "startTime": "92.600s",
+              "word": "from"
+            },
+            {
+              "endTime": "92.900s",
+              "speakerTag": 1,
+              "startTime": "92.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "93.400s",
+              "speakerTag": 1,
+              "startTime": "92.900s",
+              "word": "public"
+            },
+            {
+              "endTime": "93.600s",
+              "speakerTag": 1,
+              "startTime": "93.400s",
+              "word": "with"
+            },
+            {
+              "endTime": "94.300s",
+              "speakerTag": 1,
+              "startTime": "93.600s",
+              "word": "regard"
+            },
+            {
+              "endTime": "94.500s",
+              "speakerTag": 1,
+              "startTime": "94.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "95.200s",
+              "speakerTag": 1,
+              "startTime": "94.500s",
+              "word": "scientific"
+            },
+            {
+              "endTime": "96.100s",
+              "speakerTag": 1,
+              "startTime": "95.200s",
+              "word": "discoveries"
+            },
+            {
+              "endTime": "97.200s",
+              "speakerTag": 1,
+              "startTime": "97s",
+              "word": "is"
+            },
+            {
+              "endTime": "97.300s",
+              "speakerTag": 1,
+              "startTime": "97.200s",
+              "word": "a"
+            },
+            {
+              "endTime": "97.900s",
+              "speakerTag": 1,
+              "startTime": "97.300s",
+              "word": "corrupt"
+            },
+            {
+              "endTime": "98.500s",
+              "speakerTag": 1,
+              "startTime": "97.900s",
+              "word": "act"
+            },
+            {
+              "endTime": "99.400s",
+              "speakerTag": 1,
+              "startTime": "99s",
+              "word": "which"
+            },
+            {
+              "endTime": "100.300s",
+              "speakerTag": 1,
+              "startTime": "99.400s",
+              "word": "facilitates"
+            },
+            {
+              "endTime": "100.800s",
+              "speakerTag": 1,
+              "startTime": "100.300s",
+              "word": "further"
+            },
+            {
+              "endTime": "101.400s",
+              "speakerTag": 1,
+              "startTime": "100.800s",
+              "word": "corruption"
+            },
+            {
+              "endTime": "102.300s",
+              "speakerTag": 1,
+              "startTime": "102s",
+              "word": "and"
+            },
+            {
+              "endTime": "102.900s",
+              "speakerTag": 1,
+              "startTime": "102.300s",
+              "word": "harm"
+            },
+            {
+              "endTime": "103.500s",
+              "speakerTag": 1,
+              "startTime": "103.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "103.800s",
+              "speakerTag": 1,
+              "startTime": "103.500s",
+              "word": "both"
+            },
+            {
+              "endTime": "104.500s",
+              "speakerTag": 1,
+              "startTime": "103.800s",
+              "word": "National"
+            },
+            {
+              "endTime": "105.200s",
+              "speakerTag": 1,
+              "startTime": "104.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "106.100s",
+              "speakerTag": 1,
+              "startTime": "105.400s",
+              "word": "Global"
+            },
+            {
+              "endTime": "107s",
+              "speakerTag": 1,
+              "startTime": "106.100s",
+              "word": "Citizens."
+            },
+            {
+              "endTime": "112.400s",
+              "speakerTag": 1,
+              "startTime": "112.200s",
+              "word": "It"
+            },
+            {
+              "endTime": "112.800s",
+              "speakerTag": 1,
+              "startTime": "112.400s",
+              "word": "is"
+            },
+            {
+              "endTime": "113s",
+              "speakerTag": 1,
+              "startTime": "112.800s",
+              "word": "my"
+            },
+            {
+              "endTime": "113.600s",
+              "speakerTag": 1,
+              "startTime": "113s",
+              "word": "intention"
+            },
+            {
+              "endTime": "113.800s",
+              "speakerTag": 1,
+              "startTime": "113.600s",
+              "word": "to"
+            },
+            {
+              "endTime": "114.400s",
+              "speakerTag": 1,
+              "startTime": "113.800s",
+              "word": "build"
+            },
+            {
+              "endTime": "114.800s",
+              "speakerTag": 1,
+              "startTime": "114.400s",
+              "word": "alien"
+            },
+            {
+              "endTime": "115.300s",
+              "speakerTag": 1,
+              "startTime": "114.800s",
+              "word": "leaks"
+            },
+            {
+              "endTime": "116s",
+              "speakerTag": 1,
+              "startTime": "115.400s",
+              "word": "into"
+            },
+            {
+              "endTime": "116.900s",
+              "speakerTag": 1,
+              "startTime": "116.700s",
+              "word": "a"
+            },
+            {
+              "endTime": "117.600s",
+              "speakerTag": 1,
+              "startTime": "116.900s",
+              "word": "global"
+            },
+            {
+              "endTime": "118.500s",
+              "speakerTag": 1,
+              "startTime": "117.600s",
+              "word": "repository"
+            },
+            {
+              "endTime": "119.200s",
+              "speakerTag": 1,
+              "startTime": "118.900s",
+              "word": "of"
+            },
+            {
+              "endTime": "119.800s",
+              "speakerTag": 1,
+              "startTime": "119.200s",
+              "word": "both"
+            },
+            {
+              "endTime": "120.600s",
+              "speakerTag": 1,
+              "startTime": "120.200s",
+              "word": "leaked"
+            },
+            {
+              "endTime": "121.400s",
+              "speakerTag": 1,
+              "startTime": "120.600s",
+              "word": "documents"
+            },
+            {
+              "endTime": "122s",
+              "speakerTag": 1,
+              "startTime": "121.700s",
+              "word": "as"
+            },
+            {
+              "endTime": "122.400s",
+              "speakerTag": 1,
+              "startTime": "122s",
+              "word": "well"
+            },
+            {
+              "endTime": "123s",
+              "speakerTag": 1,
+              "startTime": "122.400s",
+              "word": "as"
+            },
+            {
+              "endTime": "124s",
+              "speakerTag": 1,
+              "startTime": "123.700s",
+              "word": "open"
+            },
+            {
+              "endTime": "124.400s",
+              "speakerTag": 1,
+              "startTime": "124s",
+              "word": "source"
+            },
+            {
+              "endTime": "124.900s",
+              "speakerTag": 1,
+              "startTime": "124.400s",
+              "word": "documents"
+            },
+            {
+              "endTime": "125.100s",
+              "speakerTag": 1,
+              "startTime": "124.900s",
+              "word": "of"
+            },
+            {
+              "endTime": "125.700s",
+              "speakerTag": 1,
+              "startTime": "125.100s",
+              "word": "high"
+            },
+            {
+              "endTime": "126.700s",
+              "speakerTag": 3,
+              "startTime": "125.900s",
+              "word": "relevance."
+            },
+            {
+              "endTime": "136.400s",
+              "speakerTag": 1,
+              "startTime": "135.700s",
+              "word": "Submissions"
+            },
+            {
+              "endTime": "136.500s",
+              "speakerTag": 1,
+              "startTime": "136.400s",
+              "word": "are"
+            },
+            {
+              "endTime": "137.300s",
+              "speakerTag": 1,
+              "startTime": "136.500s",
+              "word": "accepted"
+            },
+            {
+              "endTime": "137.600s",
+              "speakerTag": 1,
+              "startTime": "137.300s",
+              "word": "in"
+            },
+            {
+              "endTime": "137.900s",
+              "speakerTag": 1,
+              "startTime": "137.600s",
+              "word": "any"
+            },
+            {
+              "endTime": "138.500s",
+              "speakerTag": 1,
+              "startTime": "137.900s",
+              "word": "language."
+            },
+            {
+              "endTime": "141.900s",
+              "speakerTag": 1,
+              "startTime": "141.500s",
+              "word": "Since"
+            },
+            {
+              "endTime": "142.300s",
+              "speakerTag": 1,
+              "startTime": "141.900s",
+              "word": "leaving"
+            },
+            {
+              "endTime": "142.500s",
+              "speakerTag": 1,
+              "startTime": "142.300s",
+              "word": "H"
+            },
+            {
+              "endTime": "142.900s",
+              "speakerTag": 1,
+              "startTime": "142.500s",
+              "word": "cone,"
+            },
+            {
+              "endTime": "143.600s",
+              "speakerTag": 1,
+              "startTime": "143.400s",
+              "word": "I"
+            },
+            {
+              "endTime": "144.100s",
+              "speakerTag": 1,
+              "startTime": "143.600s",
+              "word": "have"
+            },
+            {
+              "endTime": "145.200s",
+              "speakerTag": 1,
+              "startTime": "144.100s",
+              "word": "hand-built"
+            },
+            {
+              "endTime": "145.800s",
+              "speakerTag": 1,
+              "startTime": "145.300s",
+              "word": "many"
+            },
+            {
+              "endTime": "146.200s",
+              "speakerTag": 1,
+              "startTime": "145.800s",
+              "word": "wooden"
+            },
+            {
+              "endTime": "146.900s",
+              "speakerTag": 1,
+              "startTime": "146.200s",
+              "word": "toys."
+            },
+            {
+              "endTime": "149.900s",
+              "speakerTag": 1,
+              "startTime": "149.400s",
+              "word": "Donating"
+            },
+            {
+              "endTime": "150.100s",
+              "speakerTag": 1,
+              "startTime": "149.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "150.700s",
+              "speakerTag": 1,
+              "startTime": "150.100s",
+              "word": "children"
+            },
+            {
+              "endTime": "151s",
+              "speakerTag": 1,
+              "startTime": "150.700s",
+              "word": "and"
+            },
+            {
+              "endTime": "151.800s",
+              "speakerTag": 1,
+              "startTime": "151s",
+              "word": "orphanages"
+            },
+            {
+              "endTime": "152.800s",
+              "speakerTag": 1,
+              "startTime": "152.300s",
+              "word": "throughout"
+            },
+            {
+              "endTime": "153s",
+              "speakerTag": 1,
+              "startTime": "152.800s",
+              "word": "my"
+            },
+            {
+              "endTime": "153.300s",
+              "speakerTag": 1,
+              "startTime": "153s",
+              "word": "region"
+            },
+            {
+              "endTime": "153.500s",
+              "speakerTag": 1,
+              "startTime": "153.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "153.600s",
+              "speakerTag": 1,
+              "startTime": "153.500s",
+              "word": "the"
+            },
+            {
+              "endTime": "154.100s",
+              "speakerTag": 1,
+              "startTime": "153.600s",
+              "word": "world."
+            },
+            {
+              "endTime": "159.800s",
+              "speakerTag": 3,
+              "startTime": "159.500s",
+              "word": "that"
+            },
+            {
+              "endTime": "160.100s",
+              "speakerTag": 3,
+              "startTime": "159.800s",
+              "word": "being"
+            },
+            {
+              "endTime": "160.600s",
+              "speakerTag": 3,
+              "startTime": "160.100s",
+              "word": "said,"
+            },
+            {
+              "endTime": "162s",
+              "speakerTag": 1,
+              "startTime": "161.900s",
+              "word": "I"
+            },
+            {
+              "endTime": "162.100s",
+              "speakerTag": 1,
+              "startTime": "162s",
+              "word": "am"
+            },
+            {
+              "endTime": "162.300s",
+              "speakerTag": 1,
+              "startTime": "162.100s",
+              "word": "no"
+            },
+            {
+              "endTime": "162.800s",
+              "speakerTag": 1,
+              "startTime": "162.300s",
+              "word": "longer"
+            },
+            {
+              "endTime": "163.500s",
+              "speakerTag": 1,
+              "startTime": "162.800s",
+              "word": "affiliated"
+            },
+            {
+              "endTime": "163.700s",
+              "speakerTag": 1,
+              "startTime": "163.500s",
+              "word": "with"
+            },
+            {
+              "endTime": "164.300s",
+              "speakerTag": 1,
+              "startTime": "163.700s",
+              "word": "Aitken"
+            },
+            {
+              "endTime": "165.400s",
+              "speakerTag": 1,
+              "startTime": "165.200s",
+              "word": "and"
+            },
+            {
+              "endTime": "165.600s",
+              "speakerTag": 1,
+              "startTime": "165.400s",
+              "word": "have"
+            },
+            {
+              "endTime": "165.800s",
+              "speakerTag": 1,
+              "startTime": "165.600s",
+              "word": "no"
+            },
+            {
+              "endTime": "166.500s",
+              "speakerTag": 1,
+              "startTime": "165.800s",
+              "word": "interest"
+            },
+            {
+              "endTime": "167.100s",
+              "speakerTag": 1,
+              "startTime": "166.500s",
+              "word": "discussing"
+            },
+            {
+              "endTime": "167.700s",
+              "speakerTag": 1,
+              "startTime": "167.100s",
+              "word": "Aitken"
+            },
+            {
+              "endTime": "168.300s",
+              "speakerTag": 1,
+              "startTime": "167.800s",
+              "word": "or"
+            },
+            {
+              "endTime": "168.800s",
+              "speakerTag": 1,
+              "startTime": "168.400s",
+              "word": "Q"
+            },
+            {
+              "endTime": "169.200s",
+              "speakerTag": 1,
+              "startTime": "168.800s",
+              "word": "related"
+            },
+            {
+              "endTime": "169.900s",
+              "speakerTag": 1,
+              "startTime": "169.200s",
+              "word": "material."
+            },
+            {
+              "endTime": "172.700s",
+              "speakerTag": 1,
+              "startTime": "172.600s",
+              "word": "I"
+            },
+            {
+              "endTime": "173.200s",
+              "speakerTag": 1,
+              "startTime": "172.700s",
+              "word": "have"
+            },
+            {
+              "endTime": "173.700s",
+              "speakerTag": 1,
+              "startTime": "173.200s",
+              "word": "always"
+            },
+            {
+              "endTime": "173.900s",
+              "speakerTag": 1,
+              "startTime": "173.700s",
+              "word": "been"
+            },
+            {
+              "endTime": "174.700s",
+              "speakerTag": 1,
+              "startTime": "173.900s",
+              "word": "opposed"
+            },
+            {
+              "endTime": "174.900s",
+              "speakerTag": 1,
+              "startTime": "174.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "175.500s",
+              "speakerTag": 1,
+              "startTime": "174.900s",
+              "word": "Violent"
+            },
+            {
+              "endTime": "176s",
+              "speakerTag": 1,
+              "startTime": "175.500s",
+              "word": "criminal"
+            },
+            {
+              "endTime": "176.500s",
+              "speakerTag": 1,
+              "startTime": "176s",
+              "word": "acts"
+            },
+            {
+              "endTime": "177.200s",
+              "speakerTag": 1,
+              "startTime": "177.100s",
+              "word": "in"
+            },
+            {
+              "endTime": "177.300s",
+              "speakerTag": 1,
+              "startTime": "177.200s",
+              "word": "the"
+            },
+            {
+              "endTime": "177.500s",
+              "speakerTag": 1,
+              "startTime": "177.300s",
+              "word": "name"
+            },
+            {
+              "endTime": "177.700s",
+              "speakerTag": 1,
+              "startTime": "177.500s",
+              "word": "of"
+            },
+            {
+              "endTime": "177.900s",
+              "speakerTag": 1,
+              "startTime": "177.700s",
+              "word": "any"
+            },
+            {
+              "endTime": "178.400s",
+              "speakerTag": 1,
+              "startTime": "177.900s",
+              "word": "group."
+            },
+            {
+              "endTime": "189.400s",
+              "speakerTag": 1,
+              "startTime": "188.700s",
+              "word": "However,"
+            },
+            {
+              "endTime": "189.500s",
+              "speakerTag": 1,
+              "startTime": "189.400s",
+              "word": "I"
+            },
+            {
+              "endTime": "189.800s",
+              "speakerTag": 1,
+              "startTime": "189.500s",
+              "word": "do"
+            },
+            {
+              "endTime": "190.100s",
+              "speakerTag": 1,
+              "startTime": "189.800s",
+              "word": "believe"
+            },
+            {
+              "endTime": "190.900s",
+              "speakerTag": 1,
+              "startTime": "190.100s",
+              "word": "strongly"
+            },
+            {
+              "endTime": "191.200s",
+              "speakerTag": 1,
+              "startTime": "191.100s",
+              "word": "in"
+            },
+            {
+              "endTime": "191.300s",
+              "speakerTag": 1,
+              "startTime": "191.200s",
+              "word": "the"
+            },
+            {
+              "endTime": "192s",
+              "speakerTag": 1,
+              "startTime": "191.300s",
+              "word": "fundamental,"
+            },
+            {
+              "endTime": "192.500s",
+              "speakerTag": 1,
+              "startTime": "192s",
+              "word": "right"
+            },
+            {
+              "endTime": "193s",
+              "speakerTag": 1,
+              "startTime": "192.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "193.600s",
+              "speakerTag": 1,
+              "startTime": "193s",
+              "word": "legally"
+            },
+            {
+              "endTime": "194.200s",
+              "speakerTag": 1,
+              "startTime": "193.600s",
+              "word": "express"
+            },
+            {
+              "endTime": "194.400s",
+              "speakerTag": 1,
+              "startTime": "194.200s",
+              "word": "our"
+            },
+            {
+              "endTime": "195.100s",
+              "speakerTag": 1,
+              "startTime": "194.400s",
+              "word": "beliefs"
+            },
+            {
+              "endTime": "195.800s",
+              "speakerTag": 1,
+              "startTime": "195.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "196.500s",
+              "speakerTag": 1,
+              "startTime": "195.800s",
+              "word": "ideas"
+            },
+            {
+              "endTime": "196.900s",
+              "speakerTag": 1,
+              "startTime": "196.800s",
+              "word": "in"
+            },
+            {
+              "endTime": "197.200s",
+              "speakerTag": 1,
+              "startTime": "196.900s",
+              "word": "ways"
+            },
+            {
+              "endTime": "197.700s",
+              "speakerTag": 1,
+              "startTime": "197.200s",
+              "word": "protected"
+            },
+            {
+              "endTime": "197.800s",
+              "speakerTag": 1,
+              "startTime": "197.700s",
+              "word": "by"
+            },
+            {
+              "endTime": "198s",
+              "speakerTag": 1,
+              "startTime": "197.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "198.800s",
+              "speakerTag": 1,
+              "startTime": "198s",
+              "word": "Constitution."
+            },
+            {
+              "endTime": "201.600s",
+              "speakerTag": 1,
+              "startTime": "200.700s",
+              "word": "Regardless"
+            },
+            {
+              "endTime": "202.100s",
+              "speakerTag": 1,
+              "startTime": "201.900s",
+              "word": "of"
+            },
+            {
+              "endTime": "202.800s",
+              "speakerTag": 1,
+              "startTime": "202.100s",
+              "word": "mainstream"
+            },
+            {
+              "endTime": "203.700s",
+              "speakerTag": 1,
+              "startTime": "202.900s",
+              "word": "acceptance."
+            },
+            {
+              "endTime": "208.100s",
+              "speakerTag": 1,
+              "startTime": "207.900s",
+              "word": "I"
+            },
+            {
+              "endTime": "208.200s",
+              "speakerTag": 1,
+              "startTime": "208.100s",
+              "word": "am"
+            },
+            {
+              "endTime": "208.500s",
+              "speakerTag": 1,
+              "startTime": "208.200s",
+              "word": "not"
+            },
+            {
+              "endTime": "209.100s",
+              "speakerTag": 1,
+              "startTime": "208.500s",
+              "word": "q"
+            },
+            {
+              "endTime": "209.600s",
+              "speakerTag": 1,
+              "startTime": "209.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "209.800s",
+              "speakerTag": 1,
+              "startTime": "209.600s",
+              "word": "have"
+            },
+            {
+              "endTime": "210.200s",
+              "speakerTag": 1,
+              "startTime": "209.800s",
+              "word": "never"
+            },
+            {
+              "endTime": "210.800s",
+              "speakerTag": 1,
+              "startTime": "210.200s",
+              "word": "posted"
+            },
+            {
+              "endTime": "211.100s",
+              "speakerTag": 1,
+              "startTime": "210.800s",
+              "word": "as"
+            },
+            {
+              "endTime": "211.600s",
+              "speakerTag": 1,
+              "startTime": "211.100s",
+              "word": "queue."
+            },
+            {
+              "endTime": "219.400s",
+              "speakerTag": 1,
+              "startTime": "219.200s",
+              "word": "The"
+            },
+            {
+              "endTime": "219.900s",
+              "speakerTag": 1,
+              "startTime": "219.400s",
+              "word": "ongoing"
+            },
+            {
+              "endTime": "220.800s",
+              "speakerTag": 1,
+              "startTime": "219.900s",
+              "word": "censorship"
+            },
+            {
+              "endTime": "221s",
+              "speakerTag": 1,
+              "startTime": "220.800s",
+              "word": "of"
+            },
+            {
+              "endTime": "221.700s",
+              "speakerTag": 1,
+              "startTime": "221s",
+              "word": "scientific"
+            },
+            {
+              "endTime": "222.400s",
+              "speakerTag": 1,
+              "startTime": "221.700s",
+              "word": "discovery."
+            },
+            {
+              "endTime": "223.800s",
+              "speakerTag": 1,
+              "startTime": "223.100s",
+              "word": "Derived"
+            },
+            {
+              "endTime": "224.300s",
+              "speakerTag": 1,
+              "startTime": "223.800s",
+              "word": "from"
+            },
+            {
+              "endTime": "226.100s",
+              "speakerTag": 1,
+              "startTime": "224.900s",
+              "word": "extraterrestrial"
+            },
+            {
+              "endTime": "226.900s",
+              "speakerTag": 1,
+              "startTime": "226.100s",
+              "word": "technology"
+            },
+            {
+              "endTime": "228.400s",
+              "speakerTag": 1,
+              "startTime": "228s",
+              "word": "is,"
+            },
+            {
+              "endTime": "229.500s",
+              "speakerTag": 1,
+              "startTime": "228.400s",
+              "word": "unfortunately,"
+            },
+            {
+              "endTime": "230.200s",
+              "speakerTag": 1,
+              "startTime": "229.600s",
+              "word": "our"
+            },
+            {
+              "endTime": "230.600s",
+              "speakerTag": 1,
+              "startTime": "230.200s",
+              "word": "current"
+            },
+            {
+              "endTime": "231.300s",
+              "speakerTag": 1,
+              "startTime": "230.600s",
+              "word": "reality"
+            },
+            {
+              "endTime": "234.600s",
+              "speakerTag": 1,
+              "startTime": "234.100s",
+              "word": "Together,"
+            },
+            {
+              "endTime": "234.800s",
+              "speakerTag": 1,
+              "startTime": "234.600s",
+              "word": "we"
+            },
+            {
+              "endTime": "235s",
+              "speakerTag": 1,
+              "startTime": "234.800s",
+              "word": "can"
+            },
+            {
+              "endTime": "235.300s",
+              "speakerTag": 1,
+              "startTime": "235s",
+              "word": "break"
+            },
+            {
+              "endTime": "235.800s",
+              "speakerTag": 1,
+              "startTime": "235.300s",
+              "word": "through"
+            },
+            {
+              "endTime": "236s",
+              "speakerTag": 1,
+              "startTime": "235.900s",
+              "word": "the"
+            },
+            {
+              "endTime": "236.500s",
+              "speakerTag": 1,
+              "startTime": "236s",
+              "word": "archaic"
+            },
+            {
+              "endTime": "237.200s",
+              "speakerTag": 1,
+              "startTime": "236.500s",
+              "word": "restrictions"
+            },
+            {
+              "endTime": "237.300s",
+              "speakerTag": 1,
+              "startTime": "237.200s",
+              "word": "of"
+            },
+            {
+              "endTime": "237.400s",
+              "speakerTag": 1,
+              "startTime": "237.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "238.100s",
+              "speakerTag": 1,
+              "startTime": "237.400s",
+              "word": "past"
+            },
+            {
+              "endTime": "239.600s",
+              "speakerTag": 1,
+              "startTime": "239.200s",
+              "word": "while"
+            },
+            {
+              "endTime": "240s",
+              "speakerTag": 1,
+              "startTime": "239.600s",
+              "word": "building"
+            },
+            {
+              "endTime": "240.600s",
+              "speakerTag": 1,
+              "startTime": "240s",
+              "word": "together"
+            },
+            {
+              "endTime": "240.800s",
+              "speakerTag": 1,
+              "startTime": "240.600s",
+              "word": "a"
+            },
+            {
+              "endTime": "241.300s",
+              "speakerTag": 1,
+              "startTime": "240.800s",
+              "word": "solid"
+            },
+            {
+              "endTime": "242s",
+              "speakerTag": 1,
+              "startTime": "241.300s",
+              "word": "foundation"
+            },
+            {
+              "endTime": "242.500s",
+              "speakerTag": 1,
+              "startTime": "242s",
+              "word": "of"
+            },
+            {
+              "endTime": "243.200s",
+              "speakerTag": 1,
+              "startTime": "242.900s",
+              "word": "on"
+            },
+            {
+              "endTime": "244s",
+              "speakerTag": 1,
+              "startTime": "243.200s",
+              "word": "oppressed"
+            },
+            {
+              "endTime": "244.600s",
+              "speakerTag": 1,
+              "startTime": "244.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "246.100s",
+              "speakerTag": 1,
+              "startTime": "244.800s",
+              "word": "uncensored"
+            },
+            {
+              "endTime": "246.900s",
+              "speakerTag": 1,
+              "startTime": "246.300s",
+              "word": "scientific"
+            },
+            {
+              "endTime": "247.600s",
+              "speakerTag": 1,
+              "startTime": "246.900s",
+              "word": "discovery."
+            },
+            {
+              "endTime": "249.700s",
+              "speakerTag": 1,
+              "startTime": "249.400s",
+              "word": "Let's"
+            },
+            {
+              "endTime": "250.100s",
+              "speakerTag": 1,
+              "startTime": "249.700s",
+              "word": "work"
+            },
+            {
+              "endTime": "250.700s",
+              "speakerTag": 1,
+              "startTime": "250.100s",
+              "word": "together"
+            },
+            {
+              "endTime": "251.300s",
+              "speakerTag": 1,
+              "startTime": "250.800s",
+              "word": "towards"
+            },
+            {
+              "endTime": "251.500s",
+              "speakerTag": 1,
+              "startTime": "251.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "252s",
+              "speakerTag": 1,
+              "startTime": "251.500s",
+              "word": "opening"
+            },
+            {
+              "endTime": "253.300s",
+              "speakerTag": 1,
+              "startTime": "253.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "254.300s",
+              "speakerTag": 1,
+              "startTime": "253.300s",
+              "word": "advancement"
+            },
+            {
+              "endTime": "254.500s",
+              "speakerTag": 1,
+              "startTime": "254.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "255s",
+              "speakerTag": 1,
+              "startTime": "254.500s",
+              "word": "our"
+            },
+            {
+              "endTime": "255.900s",
+              "speakerTag": 1,
+              "startTime": "255.100s",
+              "word": "spacefaring"
+            },
+            {
+              "endTime": "256.700s",
+              "speakerTag": 1,
+              "startTime": "255.900s",
+              "word": "species."
+            },
+            {
+              "endTime": "249.700s",
+              "speakerTag": 1,
+              "startTime": "249.400s",
+              "word": "Let's"
+            },
+            {
+              "endTime": "250.100s",
+              "speakerTag": 1,
+              "startTime": "249.700s",
+              "word": "work"
+            },
+            {
+              "endTime": "250.700s",
+              "speakerTag": 1,
+              "startTime": "250.100s",
+              "word": "together"
+            },
+            {
+              "endTime": "251.300s",
+              "speakerTag": 1,
+              "startTime": "250.800s",
+              "word": "towards"
+            },
+            {
+              "endTime": "251.500s",
+              "speakerTag": 1,
+              "startTime": "251.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "252s",
+              "speakerTag": 1,
+              "startTime": "251.500s",
+              "word": "opening"
+            },
+            {
+              "endTime": "253.300s",
+              "speakerTag": 1,
+              "startTime": "253.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "254.300s",
+              "speakerTag": 1,
+              "startTime": "253.300s",
+              "word": "advancement"
+            },
+            {
+              "endTime": "254.500s",
+              "speakerTag": 1,
+              "startTime": "254.300s",
+              "word": "of"
+            },
+            {
+              "endTime": "255s",
+              "speakerTag": 1,
+              "startTime": "254.500s",
+              "word": "our"
+            },
+            {
+              "endTime": "255.900s",
+              "speakerTag": 1,
+              "startTime": "255.100s",
+              "word": "spacefaring"
+            },
+            {
+              "endTime": "256.700s",
+              "speakerTag": 1,
+              "startTime": "255.900s",
+              "word": "species."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalBilledTime": "270s"
+}
